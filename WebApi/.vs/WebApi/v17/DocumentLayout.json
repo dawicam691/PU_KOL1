@@ -3,13 +3,70 @@
   "WorkspaceRootPath": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\WebApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B673123-78F3-4407-A167-A7BBAC6FB990}|..\\BLL_EF\\BLL_EF.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\bll_ef\\serviceimplementation\\studencibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B93AAFB-4F5A-4755-BC6A-644E54691192}|..\\Models\\Models.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95DEEC-189E-48AC-8419-EF1FB69F71A8}|..\\DAL\\DAL.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\dal\\databasecontext\\uczelniadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCE2D67-9A0A-4668-A3E3-ED73938E207C}|..\\BLL\\BLL.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\bll\\serviceinterfaces\\igrupybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCE2D67-9A0A-4668-A3E3-ED73938E207C}|..\\BLL\\BLL.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\bll\\serviceinterfaces\\ihistoriebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCE2D67-9A0A-4668-A3E3-ED73938E207C}|..\\BLL\\BLL.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\bll\\serviceinterfaces\\istudencibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCE2D67-9A0A-4668-A3E3-ED73938E207C}|..\\BLL\\BLL.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\bll\\dtomodels\\request\\studentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCE2D67-9A0A-4668-A3E3-ED73938E207C}|..\\BLL\\BLL.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\bll\\dtomodels\\request\\gruparequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCE2D67-9A0A-4668-A3E3-ED73938E207C}|..\\BLL\\BLL.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\bll\\dtomodels\\request\\historiarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCE2D67-9A0A-4668-A3E3-ED73938E207C}|..\\BLL\\BLL.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\bll\\dtomodels\\response\\gruparesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\Migrations\\20240419145003_migracja 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B93AAFB-4F5A-4755-BC6A-644E54691192}|..\\Models\\Models.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\models\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B93AAFB-4F5A-4755-BC6A-644E54691192}|..\\Models\\Models.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\models\\typ_akcji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA95DEEC-189E-48AC-8419-EF1FB69F71A8}|..\\DAL\\DAL.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95DEEC-189E-48AC-8419-EF1FB69F71A8}|..\\DAL\\DAL.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\dal\\dalmodels\\classes\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95DEEC-189E-48AC-8419-EF1FB69F71A8}|..\\DAL\\DAL.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\dal\\dalmodels\\classes\\historiadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95DEEC-189E-48AC-8419-EF1FB69F71A8}|..\\DAL\\DAL.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\dal\\dalmodels\\classes\\grupadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95DEEC-189E-48AC-8419-EF1FB69F71A8}|..\\DAL\\DAL.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\dal\\dalmodels\\enums\\typ_akcji_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCE2D67-9A0A-4668-A3E3-ED73938E207C}|..\\BLL\\BLL.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\bll\\dtomodels\\response\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCE2D67-9A0A-4668-A3E3-ED73938E207C}|..\\BLL\\BLL.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\bll\\dtomodels\\response\\historiaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCE2D67-9A0A-4668-A3E3-ED73938E207C}|..\\BLL\\BLL.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\bll\\dtomodels\\enums\\typ_akcji_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B93AAFB-4F5A-4755-BC6A-644E54691192}|..\\Models\\Models.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\models\\grupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B93AAFB-4F5A-4755-BC6A-644E54691192}|..\\Models\\Models.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\models\\typ_akcji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -24,46 +81,280 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 222,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Grupa.cs",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\Models\\Grupa.cs",
-              "RelativeDocumentMoniker": "..\\Models\\Grupa.cs",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\Models\\Grupa.cs",
-              "RelativeToolTip": "..\\Models\\Grupa.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:06:41.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TYP_AKCJI.cs",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\Models\\TYP_AKCJI.cs",
-              "RelativeDocumentMoniker": "..\\Models\\TYP_AKCJI.cs",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\Models\\TYP_AKCJI.cs",
-              "RelativeToolTip": "..\\Models\\TYP_AKCJI.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:06:36.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StudenciBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL_EF\\ServiceImplementation\\StudenciBLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL_EF\\ServiceImplementation\\StudenciBLL.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL_EF\\ServiceImplementation\\StudenciBLL.cs",
+              "RelativeToolTip": "..\\BLL_EF\\ServiceImplementation\\StudenciBLL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:00:18.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGrupyBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\ServiceInterfaces\\IGrupyBLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\ServiceInterfaces\\IGrupyBLL.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\ServiceInterfaces\\IGrupyBLL.cs",
+              "RelativeToolTip": "..\\BLL\\ServiceInterfaces\\IGrupyBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:56:15.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHistorieBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\ServiceInterfaces\\IHistorieBLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\ServiceInterfaces\\IHistorieBLL.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\ServiceInterfaces\\IHistorieBLL.cs",
+              "RelativeToolTip": "..\\BLL\\ServiceInterfaces\\IHistorieBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:58:08.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudenciBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\ServiceInterfaces\\IStudenciBLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\ServiceInterfaces\\IStudenciBLL.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\ServiceInterfaces\\IStudenciBLL.cs",
+              "RelativeToolTip": "..\\BLL\\ServiceInterfaces\\IStudenciBLL.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvwwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:51:51.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Request\\StudentRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTOModels\\Request\\StudentRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Request\\StudentRequestDTO.cs",
+              "RelativeToolTip": "..\\BLL\\DTOModels\\Request\\StudentRequestDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:26:15.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UczelniaDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DataBaseContext\\UczelniaDBContext.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DataBaseContext\\UczelniaDBContext.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DataBaseContext\\UczelniaDBContext.cs",
+              "RelativeToolTip": "..\\DAL\\DataBaseContext\\UczelniaDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:43:48.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GrupaRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Request\\GrupaRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTOModels\\Request\\GrupaRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Request\\GrupaRequestDTO.cs",
+              "RelativeToolTip": "..\\BLL\\DTOModels\\Request\\GrupaRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:27:01.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GrupaResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Response\\GrupaResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTOModels\\Response\\GrupaResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Response\\GrupaResponseDTO.cs",
+              "RelativeToolTip": "..\\BLL\\DTOModels\\Response\\GrupaResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:37:05.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistoriaRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Request\\HistoriaRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTOModels\\Request\\HistoriaRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Request\\HistoriaRequestDTO.cs",
+              "RelativeToolTip": "..\\BLL\\DTOModels\\Request\\HistoriaRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:33:45.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240419145003_migracja 1.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\Migrations\\20240419145003_migracja 1.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20240419145003_migracja 1.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\Migrations\\20240419145003_migracja 1.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20240419145003_migracja 1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:50:03.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GrupaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DALModels\\Classes\\GrupaDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DALModels\\Classes\\GrupaDAL.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DALModels\\Classes\\GrupaDAL.cs",
+              "RelativeToolTip": "..\\DAL\\DALModels\\Classes\\GrupaDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:19:45.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HistoriaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DALModels\\Classes\\HistoriaDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DALModels\\Classes\\HistoriaDAL.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DALModels\\Classes\\HistoriaDAL.cs",
+              "RelativeToolTip": "..\\DAL\\DALModels\\Classes\\HistoriaDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:21:15.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DALModels\\Classes\\StudentDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DALModels\\Classes\\StudentDAL.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DALModels\\Classes\\StudentDAL.cs",
+              "RelativeToolTip": "..\\DAL\\DALModels\\Classes\\StudentDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:17:50.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DAL",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "..\\DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DAL.csproj",
+              "RelativeToolTip": "..\\DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T14:17:14.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TYP_AKCJI_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DALModels\\Enums\\TYP_AKCJI_DAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DALModels\\Enums\\TYP_AKCJI_DAL.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DALModels\\Enums\\TYP_AKCJI_DAL.cs",
+              "RelativeToolTip": "..\\DAL\\DALModels\\Enums\\TYP_AKCJI_DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:22:58.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Historia.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\Models\\Historia.cs",
               "RelativeDocumentMoniker": "..\\Models\\Historia.cs",
               "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\Models\\Historia.cs",
               "RelativeToolTip": "..\\Models\\Historia.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:04:59.931Z",
+              "WhenOpened": "2024-04-19T14:25:56.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Response\\StudentResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTOModels\\Response\\StudentResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Response\\StudentResponseDTO.cs",
+              "RelativeToolTip": "..\\BLL\\DTOModels\\Response\\StudentResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:36:22.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HistoriaResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Response\\HistoriaResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTOModels\\Response\\HistoriaResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Response\\HistoriaResponseDTO.cs",
+              "RelativeToolTip": "..\\BLL\\DTOModels\\Response\\HistoriaResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:38:11.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TYP_AKCJI_DTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Enums\\TYP_AKCJI_DTO.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTOModels\\Enums\\TYP_AKCJI_DTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Enums\\TYP_AKCJI_DTO.cs",
+              "RelativeToolTip": "..\\BLL\\DTOModels\\Enums\\TYP_AKCJI_DTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:34:58.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Grupa.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\Models\\Grupa.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Grupa.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\Models\\Grupa.cs",
+              "RelativeToolTip": "..\\Models\\Grupa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:25:52.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TYP_AKCJI.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\Models\\TYP_AKCJI.cs",
+              "RelativeDocumentMoniker": "..\\Models\\TYP_AKCJI.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\Models\\TYP_AKCJI.cs",
+              "RelativeToolTip": "..\\Models\\TYP_AKCJI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:06:36.215Z",
               "EditorCaption": ""
             },
             {
@@ -72,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 23,
               "Title": "Grupa.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium\\Models\\Grupa.cs",
               "RelativeDocumentMoniker": "..\\..\\kolokwium\\Models\\Grupa.cs",
@@ -80,11 +371,12 @@
               "RelativeToolTip": "..\\..\\kolokwium\\Models\\Grupa.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T13:39:17.263Z"
+              "WhenOpened": "2024-04-19T13:39:17.263Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 22,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium\\Models\\Student.cs",
               "RelativeDocumentMoniker": "..\\..\\kolokwium\\Models\\Student.cs",
@@ -93,6 +385,25 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T13:37:21.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 178,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\Models\\Student.cs",
+              "RelativeToolTip": "..\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:21:02.618Z",
               "EditorCaption": ""
             }
           ]

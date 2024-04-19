@@ -14,6 +14,6 @@ namespace Models
         public string Nazwisko { get; set; }
         public int? IdGrupy { get; set; }
         [ForeignKey(nameof(IdGrupy))]
-        public Grupa Grupa { get; set; }
+        public Grupa? Grupa { get; set; }
     }
 }

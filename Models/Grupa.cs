@@ -11,6 +11,6 @@ namespace Models
     {
         public int Id { get; set; }
         public string Nazwa { get; set; }
-        public List<Student> Studenci { get; set; }
+        public List<Student>? Studenci { get; set; }
     }
 }
