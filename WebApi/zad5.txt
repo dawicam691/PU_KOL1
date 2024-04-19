@@ -1,0 +1,10 @@
+CREATE PROCEDURE [dbo].[Procedure1]
+	@imie varchar(255),
+	@nazwisko varchar(255),
+	@IdGrupy int
+AS
+	INSERT INTO Studentci(imie, Nazwisko, IdGrupy)
+	VALUES(@imie, @nazwisko, @IdGrupy)
+RETURN 0
+
+exec Procedure1 'NowyTest', 'NowyTest', null
