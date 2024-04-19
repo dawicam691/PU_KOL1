@@ -1,0 +1,9 @@
+CREATE PROCEDURE [dbo].[ProcedureStronicowanie1]
+	@strona int,
+	@liczbaNaStrone int
+AS
+	SELECT * from Historie ORDER BY Id OFFSET @strona*@liczbaNaStrone ROWS FETCH NEXT @liczbaNaStrone ROWS ONLY;
+RETURN 0
+
+
+exec ProcedureStronicowanie1 1,4

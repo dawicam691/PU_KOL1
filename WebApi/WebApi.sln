@@ -16,6 +16,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{7D216475-0A35-4DE2-BBC3-E53DBFD5ADA9}"
 	ProjectSection(SolutionItems) = preProject
 		..\SQL\SQLzad5.txt = ..\SQL\SQLzad5.txt
+		SQLzad6.txt = SQLzad6.txt
+		SQLzad7.1update.txt = SQLzad7.1update.txt
+		SQLzad7.2delete.txt = SQLzad7.2delete.txt
 	EndProjectSection
 EndProject
 Global

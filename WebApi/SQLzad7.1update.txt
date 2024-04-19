@@ -1,0 +1,24 @@
+CREATE TRIGGER [TriggerZad7.1Modyfikacja]
+	ON [dbo].[Studentci]
+	instead of UPDATE
+	AS
+	BEGIN
+        DECLARE @imie varchar(100), @nazwisko varchar(100), @idGrupy INT, @id INT;
+
+		SELECT @id = s.Id, @imie = s.Imie, @nazwisko = s.Nazwisko, @idGrupy = s.IdGrupy
+		FROM Studentci s;
+
+		INSERT INTO Historie (IdStudenta, Imie, Nazwisko, IdGrupy, TypAkcji, Data)
+		VALUES (@id, @imie, @nazwisko, @idGrupy, 1, GETDATE());
+
+		DECLARE @imieAfter varchar(255) , @nazwiskoAfter varchar(255) , @IdGrupyAfter int
+
+
+		SELECT @imieAfter = i.Imie, @nazwiskoAfter = i.Nazwisko, @IdGrupyAfter = i.IdGrupy
+		FROM INSERTED i;
+
+		Update Studentci set Imie = @imieAfter, Nazwisko = @nazwiskoAfter, IdGrupy = @IdGrupyAfter where Id = @id
+
+
+		SET NOCOUNT ON
+	END

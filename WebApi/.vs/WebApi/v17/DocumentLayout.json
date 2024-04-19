@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D216475-0A35-4DE2-BBC3-E53DBFD5ADA9}|Elementy rozwi\u0105zania{7D216475-0A35-4DE2-BBC3-E53DBFD5ADA9}|C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\SQL\\SQLzad5.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32D1D662-6803-418D-A05F-8A1D0A9446DE}|WebApi.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium2\\webapi\\controllers\\historiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32D1D662-6803-418D-A05F-8A1D0A9446DE}|WebApi.csproj|solutionrelative:controllers\\historiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -102,32 +99,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SQLzad5.txt",
-              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\SQL\\SQLzad5.txt",
-              "RelativeDocumentMoniker": "..\\SQL\\SQLzad5.txt",
-              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\SQL\\SQLzad5.txt",
-              "RelativeToolTip": "..\\SQL\\SQLzad5.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-19T17:10:26.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "HistorieController.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\WebApi\\Controllers\\HistorieController.cs",
               "RelativeDocumentMoniker": "Controllers\\HistorieController.cs",
               "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\WebApi\\Controllers\\HistorieController.cs",
               "RelativeToolTip": "Controllers\\HistorieController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T16:37:55.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "HistoriaResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Response\\HistoriaResponseDTO.cs",
               "RelativeDocumentMoniker": "..\\BLL\\DTOModels\\Response\\HistoriaResponseDTO.cs",
@@ -139,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "dbo.Studentci [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Uczelnia/True/SqlTable/dbo.Studentci.sql",
               "ToolTip": "dbo.Studentci [Data]",
@@ -148,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HistorieBLL.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL_EF\\ServiceImplementation\\HistorieBLL.cs",
               "RelativeDocumentMoniker": "..\\BLL_EF\\ServiceImplementation\\HistorieBLL.cs",
@@ -160,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IHistorieBLL.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\ServiceInterfaces\\IHistorieBLL.cs",
               "RelativeDocumentMoniker": "..\\BLL\\ServiceInterfaces\\IHistorieBLL.cs",
@@ -172,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "GrupyBLL.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL_EF\\ServiceImplementation\\GrupyBLL.cs",
               "RelativeDocumentMoniker": "..\\BLL_EF\\ServiceImplementation\\GrupyBLL.cs",
@@ -184,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "GrupaResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Response\\GrupaResponseDTO.cs",
               "RelativeDocumentMoniker": "..\\BLL\\DTOModels\\Response\\GrupaResponseDTO.cs",
@@ -196,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -208,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "StudentRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Request\\StudentRequestDTO.cs",
               "RelativeDocumentMoniker": "..\\BLL\\DTOModels\\Request\\StudentRequestDTO.cs",
@@ -220,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "StudenciBLL.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL_EF\\ServiceImplementation\\StudenciBLL.cs",
               "RelativeDocumentMoniker": "..\\BLL_EF\\ServiceImplementation\\StudenciBLL.cs",
@@ -232,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "UczelniaDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DataBaseContext\\UczelniaDBContext.cs",
               "RelativeDocumentMoniker": "..\\DAL\\DataBaseContext\\UczelniaDBContext.cs",
@@ -244,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "StudenciController.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\WebApi\\Controllers\\StudenciController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudenciController.cs",
@@ -256,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "StudenciBLL.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\AppData\\Local\\Temp\\16\\.vsdbgsrc\\5e5321143ced2bacf50671965a5526f71ab94dde12f062b48228cf6fe8539925\\StudenciBLL.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\16\\.vsdbgsrc\\5e5321143ced2bacf50671965a5526f71ab94dde12f062b48228cf6fe8539925\\StudenciBLL.cs",
@@ -268,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "StudentResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Response\\StudentResponseDTO.cs",
               "RelativeDocumentMoniker": "..\\BLL\\DTOModels\\Response\\StudentResponseDTO.cs",
@@ -280,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "IStudenciBLL.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\ServiceInterfaces\\IStudenciBLL.cs",
               "RelativeDocumentMoniker": "..\\BLL\\ServiceInterfaces\\IStudenciBLL.cs",
@@ -292,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "IGrupyBLL.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\ServiceInterfaces\\IGrupyBLL.cs",
               "RelativeDocumentMoniker": "..\\BLL\\ServiceInterfaces\\IGrupyBLL.cs",
@@ -304,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "GrupaRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Request\\GrupaRequestDTO.cs",
               "RelativeDocumentMoniker": "..\\BLL\\DTOModels\\Request\\GrupaRequestDTO.cs",
@@ -316,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "20240419145003_migracja 1.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\Migrations\\20240419145003_migracja 1.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20240419145003_migracja 1.cs",
@@ -328,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "GrupaDAL.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DALModels\\Classes\\GrupaDAL.cs",
               "RelativeDocumentMoniker": "..\\DAL\\DALModels\\Classes\\GrupaDAL.cs",
@@ -340,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "HistoriaDAL.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DALModels\\Classes\\HistoriaDAL.cs",
               "RelativeDocumentMoniker": "..\\DAL\\DALModels\\Classes\\HistoriaDAL.cs",
@@ -352,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "StudentDAL.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DALModels\\Classes\\StudentDAL.cs",
               "RelativeDocumentMoniker": "..\\DAL\\DALModels\\Classes\\StudentDAL.cs",
@@ -364,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "DAL.csproj",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "..\\DAL\\DAL.csproj",
@@ -376,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "TYP_AKCJI_DAL.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\DAL\\DALModels\\Enums\\TYP_AKCJI_DAL.cs",
               "RelativeDocumentMoniker": "..\\DAL\\DALModels\\Enums\\TYP_AKCJI_DAL.cs",
@@ -388,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "TYP_AKCJI_DTO.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\BLL\\DTOModels\\Enums\\TYP_AKCJI_DTO.cs",
               "RelativeDocumentMoniker": "..\\BLL\\DTOModels\\Enums\\TYP_AKCJI_DTO.cs",
@@ -400,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "TYP_AKCJI.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium2\\Models\\TYP_AKCJI.cs",
               "RelativeDocumentMoniker": "..\\Models\\TYP_AKCJI.cs",
@@ -412,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "Grupa.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium\\Models\\Grupa.cs",
               "RelativeDocumentMoniker": "..\\..\\kolokwium\\Models\\Grupa.cs",
@@ -424,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium\\Models\\Student.cs",
               "RelativeDocumentMoniker": "..\\..\\kolokwium\\Models\\Student.cs",

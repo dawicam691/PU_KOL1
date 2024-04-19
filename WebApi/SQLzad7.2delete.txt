@@ -1,0 +1,20 @@
+CREATE TRIGGER [TriggerZad7.2delete]
+	ON [dbo].[Studentci]
+	instead of delete
+	AS
+	BEGIN
+        DECLARE @imie varchar(100), @nazwisko varchar(100), @idGrupy INT, @id INT;
+
+		SELECT @id = s.Id, @imie = s.Imie, @nazwisko = s.Nazwisko, @idGrupy = s.IdGrupy
+		FROM Studentci s;
+
+		INSERT INTO Historie (IdStudenta, Imie, Nazwisko, IdGrupy, TypAkcji, Data)
+		VALUES (@id, @imie, @nazwisko, @idGrupy, 0, GETDATE());
+
+		DECLARE @imieAfter varchar(255) , @nazwiskoAfter varchar(255) , @IdGrupyAfter int
+
+		delete from Studentci where Id = @id
+
+
+		SET NOCOUNT ON
+	END
