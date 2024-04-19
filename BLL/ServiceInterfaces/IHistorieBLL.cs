@@ -13,7 +13,5 @@ namespace BLL.ServiceInterfaces
         public List<HistoriaResponseDTO> get();
         public HistoriaResponseDTO getById(int id);
         public void add(HistoriaRequestDTO historiaRequestDTO);
-        public void update(HistoriaRequestDTO hstoriaRequestDTO);
-        public void delete(int id);
     }
 }

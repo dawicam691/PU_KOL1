@@ -15,6 +15,7 @@ namespace BLL.ServiceInterfaces
         public void add(StudentRequestDTO studentRequestDTO);
         public void update(StudentRequestDTO studentRequestDTO);
         public void delete(int id);
+        public List<StudentResponseDTO> getByGroupId(int idGrupy);
 
     }
 }
