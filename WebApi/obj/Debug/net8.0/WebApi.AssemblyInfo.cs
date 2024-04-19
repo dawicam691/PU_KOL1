@@ -14,9 +14,10 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cb5d0ae7cf56d674e0f24b5a1452d4bfeb150df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9b2dc7d216c83cfd28d602247337f799052f8ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
-// Wygenerowane przez klasÄ
+// Wygenerowane przez klasÄ™ WriteCodeFragment programu MSBuild.
+

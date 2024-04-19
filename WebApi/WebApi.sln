@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi.csproj", "{32D1D662-6803-418D-A05F-8A1D0A9446DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi.csproj", "{32D1D662-6803-418D-A05F-8A1D0A9446DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "..\Models\Models.csproj", "{4B93AAFB-4F5A-4755-BC6A-644E54691192}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "..\Models\Models.csproj", "{4B93AAFB-4F5A-4755-BC6A-644E54691192}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", "{9BCE2D67-9A0A-4668-A3E3-ED73938E207C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL_EF", "..\BLL_EF\BLL_EF.csproj", "{5B673123-78F3-4407-A167-A7BBAC6FB990}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{EA95DEEC-189E-48AC-8419-EF1FB69F71A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{4B93AAFB-4F5A-4755-BC6A-644E54691192}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B93AAFB-4F5A-4755-BC6A-644E54691192}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B93AAFB-4F5A-4755-BC6A-644E54691192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BCE2D67-9A0A-4668-A3E3-ED73938E207C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCE2D67-9A0A-4668-A3E3-ED73938E207C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCE2D67-9A0A-4668-A3E3-ED73938E207C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCE2D67-9A0A-4668-A3E3-ED73938E207C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B673123-78F3-4407-A167-A7BBAC6FB990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B673123-78F3-4407-A167-A7BBAC6FB990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B673123-78F3-4407-A167-A7BBAC6FB990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B673123-78F3-4407-A167-A7BBAC6FB990}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA95DEEC-189E-48AC-8419-EF1FB69F71A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA95DEEC-189E-48AC-8419-EF1FB69F71A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA95DEEC-189E-48AC-8419-EF1FB69F71A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA95DEEC-189E-48AC-8419-EF1FB69F71A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
