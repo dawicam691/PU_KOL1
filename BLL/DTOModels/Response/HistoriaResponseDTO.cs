@@ -14,7 +14,6 @@ namespace BLL.DTOModels.Response
         public string? Imie { get; set; }
         public string? Nazwisko { get; set; }
         public int? IdGrupy { get; set; }
-        [ForeignKey(nameof(IdGrupy))]
         public TYP_AKCJI_DTO TypAkcjiDTO { get; set; }
         public DateTime Data { get; set; }
     }

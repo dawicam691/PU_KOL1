@@ -8,12 +8,10 @@ namespace BLL.DTOModels.Request
 {
     public class HistoriaRequestDTO
     {
-        /// <summary>
-        /// Id tylko do aktualizacji (update) rekordu
-        /// </summary>
-        public int? Id { get; set; }
-        public StudentRequestDTO? StudentRequestDTO { get; set; }
-        public GrupaRequestDTO? GrupaRequestDTO { get; set; }
+        public int? IdStudenta { get; set; }
+        public string? Imie { get; set; }
+        public string? Nazwisko { get; set; }
+        public int? IdGrupy { get; set; }
         public TYP_AKCJI_DTO TypAkcjiDTO { get; set; }
         public DateTime Data { get; set; }
     }

@@ -1,4 +1,5 @@
-﻿using BLL.DTOModels.Request;
+﻿using BLL.DTOModels;
+using BLL.DTOModels.Request;
 using BLL.DTOModels.Response;
 using BLL.ServiceInterfaces;
 using DAL.DataBaseContext;
@@ -17,11 +18,11 @@ namespace BLL_EF.ServiceImplementation
         public void add(HistoriaRequestDTO historiaRequestDTO)
         {
             Historia historia = new Historia();
-            historia.Id = historiaRequestDTO.Id;
-            historia.IdStudenta = historiaRequestDTO.StudentRequestDTO.Id;
-            historia.Imie = historiaRequestDTO.StudentRequestDTO.Imie;
-            historia.Nazwisko = historiaRequestDTO.StudentRequestDTO.Nazwisko;
-            historia.IdGrupy = historiaRequestDTO.GrupaRequestDTO.Id;
+            historia.Id = context.Historie.Max(x => x.Id);
+            historia.IdStudenta = historiaRequestDTO.IdStudenta;
+            historia.Imie = historiaRequestDTO.Imie;
+            historia.Nazwisko = historiaRequestDTO.Nazwisko;
+            historia.IdGrupy = historiaRequestDTO.IdGrupy;
             historia.TypAkcji = (TYP_AKCJI)historiaRequestDTO.TypAkcjiDTO;
             historia.Data = historiaRequestDTO.Data;
         }
@@ -32,15 +33,27 @@ namespace BLL_EF.ServiceImplementation
             foreach(Historia historia in historieFromDB)
             {
                 HistoriaResponseDTO historiaResponseDTO = new HistoriaResponseDTO();
-                StudentResponseDTO studentResponseDTO = new StudentResponseDTO();
-                studentResponseDTO.Id = historia.IdStudenta;
-
-                historiaResponseDTO.student
+                historiaResponseDTO.IdStudenta = historia.IdStudenta;
+                historiaResponseDTO.Imie = historia.Imie;
+                historiaResponseDTO.Nazwisko = historia.Nazwisko;
+                historiaResponseDTO.IdGrupy = historia.IdGrupy;
+                historiaResponseDTO.TypAkcjiDTO = (TYP_AKCJI_DTO)historia.TypAkcji;
+                historiaResponseDTO.Data = historia.Data;
+                result.Add(historiaResponseDTO);
             }
+            return result;
         }
         public HistoriaResponseDTO getById(int id)
         {
-            throw new NotImplementedException();
+            Historia historia = context.Historie.Where(x => x.Id == id);
+            HistoriaResponseDTO historiaResponseDTO = new HistoriaResponseDTO();
+            historiaResponseDTO.IdStudenta = historia.IdStudenta;
+            historiaResponseDTO.Imie = historia.Imie;
+            historiaResponseDTO.Nazwisko = historia.Nazwisko;
+            historiaResponseDTO.IdGrupy = historia.IdGrupy;
+            historiaResponseDTO.TypAkcjiDTO = (TYP_AKCJI_DTO)historia.TypAkcji;
+            historiaResponseDTO.Data = historia.Data;
+            return historiaResponseDTO;
         }
 
     }
