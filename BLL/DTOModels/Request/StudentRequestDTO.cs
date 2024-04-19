@@ -14,6 +14,6 @@ namespace BLL.DTOModels.Request
         public int? Id { get; set; }
         public string Imie { get; set; }
         public string Nazwisko { get; set; }
-        public GrupaRequestDTO? GrupaRequestDTO { get; set; }
+        public int? IdGrupy { get; set; }
     }
 }

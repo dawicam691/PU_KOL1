@@ -11,16 +11,17 @@ using System.Threading.Tasks;
 
 namespace BLL_EF.ServiceImplementation
 {
-    internal class StudenciBLL : IStudenciBLL
+    public class StudenciBLL : IStudenciBLL
     {
         private UczelniaDBContext context = new UczelniaDBContext();
         public void add(StudentRequestDTO studentRequestDTO)
         {
             Student studentForAdd = new Student();
-            studentForAdd.Id = context.Studentci.Max(x => x.Id) + 1;
+            /*studentForAdd.Id = context.Studentci.Max(x => x.Id) + 1;*/
             studentForAdd.Imie = studentRequestDTO.Imie;
             studentForAdd.Nazwisko = studentRequestDTO.Nazwisko;
-            studentForAdd.IdGrupy = studentRequestDTO.GrupaRequestDTO.Id;
+            if(studentRequestDTO.IdGrupy != null && studentRequestDTO.IdGrupy>0)
+                studentForAdd.IdGrupy = studentRequestDTO.IdGrupy;
             context.Studentci.Add(studentForAdd);
             context.SaveChanges();
         }
@@ -99,7 +100,8 @@ namespace BLL_EF.ServiceImplementation
                     student.Id = (int)studentRequestDTO.Id;
                     student.Imie = studentRequestDTO.Imie;
                     student.Nazwisko = studentRequestDTO.Nazwisko;
-                    student.IdGrupy = studentRequestDTO.GrupaRequestDTO.Id;
+                    if(studentRequestDTO.IdGrupy!= null && studentRequestDTO.IdGrupy>0)
+                    student.IdGrupy = studentRequestDTO.IdGrupy;
                     context.Studentci.Update(student);
                     context.SaveChanges();
                 }

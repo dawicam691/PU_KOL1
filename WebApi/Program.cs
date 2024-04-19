@@ -1,4 +1,8 @@
 
+using BLL.ServiceInterfaces;
+using BLL_EF.ServiceImplementation;
+using DAL.DataBaseContext;
+
 namespace WebApi
 {
     public class Program
@@ -6,7 +10,8 @@ namespace WebApi
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
+            builder.Services.AddDbContext<UczelniaDBContext>();
+            builder.Services.AddScoped<IStudenciBLL, StudenciBLL>();
             // Add services to the container.
 
             builder.Services.AddControllers();

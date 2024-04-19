@@ -45,7 +45,7 @@ namespace BLL_EF.ServiceImplementation
         }
         public HistoriaResponseDTO getById(int id)
         {
-            Historia historia = context.Historie.Where(x => x.Id == id);
+            Historia historia = context.Historie.Where(x => x.Id == id).FirstOrDefault();
             HistoriaResponseDTO historiaResponseDTO = new HistoriaResponseDTO();
             historiaResponseDTO.IdStudenta = historia.IdStudenta;
             historiaResponseDTO.Imie = historia.Imie;
@@ -54,6 +54,23 @@ namespace BLL_EF.ServiceImplementation
             historiaResponseDTO.TypAkcjiDTO = (TYP_AKCJI_DTO)historia.TypAkcji;
             historiaResponseDTO.Data = historia.Data;
             return historiaResponseDTO;
+        }
+        public List<HistoriaResponseDTO> getStronicowanie(int strona, int liczbaNaStrone)
+        {
+            List<Historia> historieFromDB = context.Historie.Skip(strona* liczbaNaStrone).Take(liczbaNaStrone).ToList();
+            List<HistoriaResponseDTO> result = new List<HistoriaResponseDTO>();
+            foreach (Historia historia in historieFromDB)
+            {
+                HistoriaResponseDTO historiaResponseDTO = new HistoriaResponseDTO();
+                historiaResponseDTO.IdStudenta = historia.IdStudenta;
+                historiaResponseDTO.Imie = historia.Imie;
+                historiaResponseDTO.Nazwisko = historia.Nazwisko;
+                historiaResponseDTO.IdGrupy = historia.IdGrupy;
+                historiaResponseDTO.TypAkcjiDTO = (TYP_AKCJI_DTO)historia.TypAkcji;
+                historiaResponseDTO.Data = historia.Data;
+                result.Add(historiaResponseDTO);
+            }
+            return result;
         }
 
     }
