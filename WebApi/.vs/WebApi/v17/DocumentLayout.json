@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B93AAFB-4F5A-4755-BC6A-644E54691192}|..\\Models\\Models.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B93AAFB-4F5A-4755-BC6A-644E54691192}|..\\Models\\Models.csproj|c:\\users\\student rm4-3073 04\\desktop\\kolokwium\\models\\grupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grupa.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium\\Models\\Grupa.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Grupa.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium\\Models\\Grupa.cs",
+              "RelativeToolTip": "..\\Models\\Grupa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:39:17.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 04\\Desktop\\kolokwium\\Models\\Student.cs",
+              "RelativeToolTip": "..\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:37:21.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
