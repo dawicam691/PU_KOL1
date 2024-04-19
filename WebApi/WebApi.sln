@@ -13,9 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL_EF", "..\BLL_EF\BLL_EF.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "..\DAL\DAL.csproj", "{EA95DEEC-189E-48AC-8419-EF1FB69F71A8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{608674A7-07EE-4BF8-BE48-4F445D62725E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{7D216475-0A35-4DE2-BBC3-E53DBFD5ADA9}"
 	ProjectSection(SolutionItems) = preProject
-		zad5.txt = zad5.txt
+		..\SQL\SQLzad5.txt = ..\SQL\SQLzad5.txt
 	EndProjectSection
 EndProject
 Global
