@@ -2,7 +2,7 @@
 {
     public enum TYP_AKCJI_DTO
     {
-        USUWANIE,
-        EDYCJA
+        USUWANIE = 0,
+        EDYCJA = 1
     }
 }
